@@ -1,0 +1,32 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+   font-size: 40px;
+   font-family: 'Reggae One', cursive;
+   width: 100%;
+   margin: 0px;
+}
+
+#status, #number_of_objects
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    
+}
+
+.footer_div{
+    text-align: center;
+    font-size: 1em;
+    margin-top: 850px;
+    font-family: 'Reggae One', cursive;
+}
